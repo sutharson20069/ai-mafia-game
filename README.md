@@ -61,3 +61,13 @@ This project explores **multi-agent AI interaction**, **game theory**, and **rea
 
 ## 📂 Project Structure
 
+ai-mafia-game/
+├── web.py # FastAPI app & WebSocket server
+├── game_logic.py # Core Mafia game rules
+├── ai_clients.py # AI provider abstraction
+├── frontend/
+│ ├── index.html # Web UI
+│ ├── app.js # Frontend logic & WebSocket client
+│ └── style.css # Styling
+├── .gitignore
+└── .env.example # Environment variable template

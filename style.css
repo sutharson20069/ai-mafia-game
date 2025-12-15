@@ -1,0 +1,18 @@
+.log-box {
+    height: 65vh;
+    overflow-y: auto;
+    background: #000;
+    font-family: monospace;
+    font-size: 0.9rem;
+  }
+  
+  .log-entry {
+    margin-bottom: 6px;
+  }
+  
+  @media (max-width: 768px) {
+    .log-box {
+      height: 50vh;
+    }
+  }
+  

@@ -1,4 +1,4 @@
-# 🧠 AI Mafia Game (Work in Progress 🚧)
+# 🧠 AI Mafia Game (WORK IS NO LONGER SUPPORTED 🚧)
 
 An experimental **AI-driven Mafia (Werewolf) game** where multiple AI agents play against each other with reasoning, discussion, and deception — all observable in real time via a web interface.
 

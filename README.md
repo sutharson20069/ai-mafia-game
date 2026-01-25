@@ -4,8 +4,8 @@ An experimental **AI-driven Mafia (Werewolf) game** where multiple AI agents pla
 
 This project explores **multi-agent AI interaction**, **game theory**, and **real-time orchestration** using modern web technologies.
 
-> ⚠️ **Status:** Actively under development.  
-> Features, architecture, and gameplay mechanics are evolving.
+> ⚠️ **Status:** Actively not under development.  
+> Features, architecture, and gameplay mechanics are not evolving.
 
 ---
 

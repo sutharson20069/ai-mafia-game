@@ -1,0 +1,23 @@
+# AI Mafia Game Requirements - Enhanced Edition
+
+# Core dependencies
+fastapi>=0.95.0
+uvicorn>=0.21.0
+python-dotenv>=0.19.0
+websockets>=11.0.0
+
+# AI/ML dependencies (optional but recommended)
+openai>=1.0.0
+google-generativeai>=0.3.0
+mistralai>=0.0.1
+
+# Development dependencies
+python-multipart>=0.0.0
+requests>=2.31.0
+
+# For enhanced features
+asyncio>=3.4.3
+json5>=0.9.14
+
+# Note: The game will work without AI APIs using intelligent fallback
+# Install AI packages only if you want to use real AI models
